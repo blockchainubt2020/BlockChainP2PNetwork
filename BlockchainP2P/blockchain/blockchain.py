@@ -24,7 +24,6 @@ class Blockchain:
         self.chain.append(block)
 
 
-
 # Instantiate the Blockchain
 blockchain = Blockchain()
 
