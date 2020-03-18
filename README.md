@@ -21,4 +21,7 @@ Create a nice Web interface
 
 ### What are the course prerequisites? ###
 - Basic understanding of Python, JavaScript, CSS and HTML
-- Curiosity and desire to know about blockchain :)
+- Curiosity and desire to know about blockchain.
+
+Thats all from Egzon & Kujtim.
+Followed instruction to build this blockchain netowork from Dr Zakwan Jaroucheh.
