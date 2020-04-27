@@ -1,6 +1,6 @@
 # BlockChainP2PNetwork
 
-## What's in the course? ##
+## Our project contains  ##
 
 In the first part we are going to explore the blockchain technology and its underlying components:
 
@@ -30,9 +30,21 @@ Create a transaction system for a cryptocurrency
 
 Create a nice Web interface
 
-### What are the course prerequisites? ###
-- Basic understanding of Python, JavaScript, CSS and HTML
-- Curiosity and desire to know about blockchain.
+### How to run the project ###
+- Visual studio its harder because you cant run two server at same time, better way to run the project is Pycharm
+- install package PyCryptodome
+- isntall package Flask
 
 Thats all from Egzon & Kujtim.
 Followed instruction to build this blockchain netowork from Dr Zakwan Jaroucheh.
+
+### Previews ###
+
+Wallet Generator
+![Wallet Generator](https://user-images.githubusercontent.com/61160645/80410379-c64e1a00-88ca-11ea-8a3e-1853ebd68042.png)
+
+Make Transaction
+![Make Transaction](https://user-images.githubusercontent.com/61160645/80410423-d36b0900-88ca-11ea-916e-629fbb8e4fbc.png)
+
+ViewTransaction
+![ViewTransaction](https://user-images.githubusercontent.com/61160645/80410445-dc5bda80-88ca-11ea-9024-0dd32b239329.png)
